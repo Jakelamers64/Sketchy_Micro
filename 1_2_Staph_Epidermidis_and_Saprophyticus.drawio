@@ -1,0 +1,127 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0" version="28.2.1">
+  <diagram name="Page-1" id="S-W4Xl76DI-GwFZme9OR">
+    <mxGraphModel dx="1345" dy="1731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nrV-E4gXac6mJdJwjjNY-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nrV-E4gXac6mJdJwjjNY-1" target="nrV-E4gXac6mJdJwjjNY-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nrV-E4gXac6mJdJwjjNY-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nrV-E4gXac6mJdJwjjNY-1" target="nrV-E4gXac6mJdJwjjNY-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nrV-E4gXac6mJdJwjjNY-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nrV-E4gXac6mJdJwjjNY-1" target="nrV-E4gXac6mJdJwjjNY-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nrV-E4gXac6mJdJwjjNY-1" value="Staph Epidermidis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nrV-E4gXac6mJdJwjjNY-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nrV-E4gXac6mJdJwjjNY-2" target="nrV-E4gXac6mJdJwjjNY-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nrV-E4gXac6mJdJwjjNY-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nrV-E4gXac6mJdJwjjNY-2" target="nrV-E4gXac6mJdJwjjNY-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nrV-E4gXac6mJdJwjjNY-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nrV-E4gXac6mJdJwjjNY-2" target="nrV-E4gXac6mJdJwjjNY-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nrV-E4gXac6mJdJwjjNY-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="nrV-E4gXac6mJdJwjjNY-2" target="nrV-E4gXac6mJdJwjjNY-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nrV-E4gXac6mJdJwjjNY-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nrV-E4gXac6mJdJwjjNY-2" target="nrV-E4gXac6mJdJwjjNY-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nrV-E4gXac6mJdJwjjNY-2" value="features" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nrV-E4gXac6mJdJwjjNY-4" value="gram positive" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="-60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nrV-E4gXac6mJdJwjjNY-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nrV-E4gXac6mJdJwjjNY-6" target="nrV-E4gXac6mJdJwjjNY-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nrV-E4gXac6mJdJwjjNY-6" value="infects artificial joints and cathitors" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="-160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nrV-E4gXac6mJdJwjjNY-8" value="covers all skin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nrV-E4gXac6mJdJwjjNY-10" value="most common cause of endocarditis of heart valves" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="-160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nrV-E4gXac6mJdJwjjNY-12" value="has biofilm that allows it to stick to metal and resist antibiotics" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="-70" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="nrV-E4gXac6mJdJwjjNY-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nrV-E4gXac6mJdJwjjNY-14" target="nrV-E4gXac6mJdJwjjNY-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nrV-E4gXac6mJdJwjjNY-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nrV-E4gXac6mJdJwjjNY-14" target="nrV-E4gXac6mJdJwjjNY-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nrV-E4gXac6mJdJwjjNY-14" value="treatment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nrV-E4gXac6mJdJwjjNY-16" value="vancomycin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="-90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nrV-E4gXac6mJdJwjjNY-18" value="if joint is infected need to replace" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nrV-E4gXac6mJdJwjjNY-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nrV-E4gXac6mJdJwjjNY-20" target="nrV-E4gXac6mJdJwjjNY-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nrV-E4gXac6mJdJwjjNY-20" value="diagnostics" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nrV-E4gXac6mJdJwjjNY-22" value="will show up on blood cultures because everywhere" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nrV-E4gXac6mJdJwjjNY-24" value="distinguished from staph sapro by novo-biocin sensitive" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nrV-E4gXac6mJdJwjjNY-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nrV-E4gXac6mJdJwjjNY-26" target="nrV-E4gXac6mJdJwjjNY-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nrV-E4gXac6mJdJwjjNY-26" value="staph saprophyticus" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nrV-E4gXac6mJdJwjjNY-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nrV-E4gXac6mJdJwjjNY-27" target="nrV-E4gXac6mJdJwjjNY-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nrV-E4gXac6mJdJwjjNY-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nrV-E4gXac6mJdJwjjNY-27" target="nrV-E4gXac6mJdJwjjNY-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nrV-E4gXac6mJdJwjjNY-27" value="features" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="-40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nrV-E4gXac6mJdJwjjNY-29" value="novobiocin resistant" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nrV-E4gXac6mJdJwjjNY-31" value="common cause of UTI in sexually active females" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="-170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nrV-E4gXac6mJdJwjjNY-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nrV-E4gXac6mJdJwjjNY-33" target="nrV-E4gXac6mJdJwjjNY-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nrV-E4gXac6mJdJwjjNY-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="nrV-E4gXac6mJdJwjjNY-33" target="nrV-E4gXac6mJdJwjjNY-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="-210" />
+              <mxPoint x="530" y="30" />
+              <mxPoint x="330" y="30" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nrV-E4gXac6mJdJwjjNY-33" value="catalase positive" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="-240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nrV-E4gXac6mJdJwjjNY-36" value="urease positive" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="-180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nrV-E4gXac6mJdJwjjNY-37" value="coagulase negative" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="-120" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
