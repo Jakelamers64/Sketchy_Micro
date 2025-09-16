@@ -1,0 +1,276 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0" version="28.2.3">
+  <diagram name="Page-1" id="RF4YoRoHtnDqgSUEPezr">
+    <mxGraphModel dx="2194" dy="1731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OVI4H6BnbGD2jRV6LPKM-1" target="OVI4H6BnbGD2jRV6LPKM-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OVI4H6BnbGD2jRV6LPKM-1" target="OVI4H6BnbGD2jRV6LPKM-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OVI4H6BnbGD2jRV6LPKM-1" target="OVI4H6BnbGD2jRV6LPKM-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OVI4H6BnbGD2jRV6LPKM-1" target="OVI4H6BnbGD2jRV6LPKM-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-1" value="Strep Pyogenes - Group A Strep" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="OVI4H6BnbGD2jRV6LPKM-2" target="OVI4H6BnbGD2jRV6LPKM-80">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="-30" />
+              <mxPoint x="170" y="-30" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OVI4H6BnbGD2jRV6LPKM-2" target="OVI4H6BnbGD2jRV6LPKM-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OVI4H6BnbGD2jRV6LPKM-2" target="OVI4H6BnbGD2jRV6LPKM-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-2" value="features" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-4" value="symptoms" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-6" value="complications" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-8" value="treatment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OVI4H6BnbGD2jRV6LPKM-10" target="OVI4H6BnbGD2jRV6LPKM-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-10" value="long chains or pairs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OVI4H6BnbGD2jRV6LPKM-12" target="OVI4H6BnbGD2jRV6LPKM-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-12" value="encapsulated" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OVI4H6BnbGD2jRV6LPKM-14" target="OVI4H6BnbGD2jRV6LPKM-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-14" value="made out of hyaluronic acid" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OVI4H6BnbGD2jRV6LPKM-16" target="OVI4H6BnbGD2jRV6LPKM-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-16" value="B-hemolytic" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="-50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OVI4H6BnbGD2jRV6LPKM-18" target="OVI4H6BnbGD2jRV6LPKM-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-18" value="Impetigo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OVI4H6BnbGD2jRV6LPKM-20" target="OVI4H6BnbGD2jRV6LPKM-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-20" value="pharengitis (strep throat)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OVI4H6BnbGD2jRV6LPKM-22" target="OVI4H6BnbGD2jRV6LPKM-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-22" value="cellulitis and erysipelas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="-30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OVI4H6BnbGD2jRV6LPKM-24" target="OVI4H6BnbGD2jRV6LPKM-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-24" value="spe" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="-130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OVI4H6BnbGD2jRV6LPKM-26" target="OVI4H6BnbGD2jRV6LPKM-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-26" value="reddening/swelling of tongue" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="-250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OVI4H6BnbGD2jRV6LPKM-28" target="OVI4H6BnbGD2jRV6LPKM-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-28" value="pharyngitis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="-180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OVI4H6BnbGD2jRV6LPKM-30" target="OVI4H6BnbGD2jRV6LPKM-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-30" value="Toxic shock like syndrome" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="-210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-33" value="super-antigen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="-210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OVI4H6BnbGD2jRV6LPKM-34" target="OVI4H6BnbGD2jRV6LPKM-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-34" value="scarlet fever" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="-120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OVI4H6BnbGD2jRV6LPKM-36" target="OVI4H6BnbGD2jRV6LPKM-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-36" value="necrotitizing fasciitis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="-20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-38" value="SepB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="-20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OVI4H6BnbGD2jRV6LPKM-40" target="OVI4H6BnbGD2jRV6LPKM-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-40" value="rhematic fever" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OVI4H6BnbGD2jRV6LPKM-42" target="OVI4H6BnbGD2jRV6LPKM-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-42" value="psgn" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="1010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="OVI4H6BnbGD2jRV6LPKM-44" target="OVI4H6BnbGD2jRV6LPKM-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-44" value="M protien" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="OVI4H6BnbGD2jRV6LPKM-46" target="OVI4H6BnbGD2jRV6LPKM-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-46" value="Anti-phagocytic" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="1050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OVI4H6BnbGD2jRV6LPKM-48" target="OVI4H6BnbGD2jRV6LPKM-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-48" value="strong humoral response (mycin via molecular mimicary)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="1050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OVI4H6BnbGD2jRV6LPKM-50" target="OVI4H6BnbGD2jRV6LPKM-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-50" value="big issues for heart valves (mitral valves)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="1170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OVI4H6BnbGD2jRV6LPKM-52" target="OVI4H6BnbGD2jRV6LPKM-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-52" value="pharingitis not skin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OVI4H6BnbGD2jRV6LPKM-54" target="OVI4H6BnbGD2jRV6LPKM-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-54" value="no issue if treated quiclky" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OVI4H6BnbGD2jRV6LPKM-56" target="OVI4H6BnbGD2jRV6LPKM-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-56" value="&lt;div&gt;1. Joints&lt;/div&gt;&lt;div&gt;2. O(heart)&lt;/div&gt;&lt;div&gt;3. Nodules&lt;/div&gt;&lt;div&gt;4. Erythema mariginatum&lt;/div&gt;&lt;div&gt;5. Sydenhams chorea&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-95" y="520" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OVI4H6BnbGD2jRV6LPKM-59" target="OVI4H6BnbGD2jRV6LPKM-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-59" value="autoimmunity type 3 hypersensitity" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OVI4H6BnbGD2jRV6LPKM-61" target="OVI4H6BnbGD2jRV6LPKM-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-61" value="glomerlous" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OVI4H6BnbGD2jRV6LPKM-63" target="OVI4H6BnbGD2jRV6LPKM-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-63" value="facial edema" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-65" value="coal colored urine" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OVI4H6BnbGD2jRV6LPKM-65" target="OVI4H6BnbGD2jRV6LPKM-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="OVI4H6BnbGD2jRV6LPKM-67" target="OVI4H6BnbGD2jRV6LPKM-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-67" value="occurs 2 weeks after infection" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="OVI4H6BnbGD2jRV6LPKM-70" target="OVI4H6BnbGD2jRV6LPKM-42">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="598" y="1090" />
+              <mxPoint x="598" y="1040" />
+              <mxPoint x="545" y="1040" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-70" value="occurs after phergytis or epitigo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="1060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="OVI4H6BnbGD2jRV6LPKM-72" target="OVI4H6BnbGD2jRV6LPKM-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-72" value="early treatment wont help this" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OVI4H6BnbGD2jRV6LPKM-74" target="OVI4H6BnbGD2jRV6LPKM-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-74" value="penicillin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OVI4H6BnbGD2jRV6LPKM-76" target="OVI4H6BnbGD2jRV6LPKM-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OVI4H6BnbGD2jRV6LPKM-76" target="OVI4H6BnbGD2jRV6LPKM-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OVI4H6BnbGD2jRV6LPKM-76" target="OVI4H6BnbGD2jRV6LPKM-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-76" value="streptilysin O" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="-130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-78" value="is B-hemolytic" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="-480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OVI4H6BnbGD2jRV6LPKM-80" target="OVI4H6BnbGD2jRV6LPKM-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-80" value="stretokinase" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-82" value="lyses cloats" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-84" value="DNase" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-86" value="Group A is basitricin sensitive" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="-340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVI4H6BnbGD2jRV6LPKM-88" value="antistreptolysin O titers to test for this" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="-480" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
