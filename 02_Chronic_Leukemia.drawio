@@ -1,0 +1,226 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0" version="28.2.3">
+  <diagram name="Page-1" id="mwc8NpnyV4Xe0uaH44Dv">
+    <mxGraphModel dx="2195" dy="1731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jd9z2LFJEtBI99acnNga-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jd9z2LFJEtBI99acnNga-1" target="jd9z2LFJEtBI99acnNga-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jd9z2LFJEtBI99acnNga-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jd9z2LFJEtBI99acnNga-1" target="jd9z2LFJEtBI99acnNga-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jd9z2LFJEtBI99acnNga-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jd9z2LFJEtBI99acnNga-1" target="jd9z2LFJEtBI99acnNga-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jd9z2LFJEtBI99acnNga-1" value="Chronic Leukemia" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jd9z2LFJEtBI99acnNga-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jd9z2LFJEtBI99acnNga-3" target="jd9z2LFJEtBI99acnNga-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jd9z2LFJEtBI99acnNga-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jd9z2LFJEtBI99acnNga-3" target="jd9z2LFJEtBI99acnNga-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jd9z2LFJEtBI99acnNga-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jd9z2LFJEtBI99acnNga-3" target="jd9z2LFJEtBI99acnNga-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jd9z2LFJEtBI99acnNga-3" value="myeloproliferative Disorders" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jd9z2LFJEtBI99acnNga-5" value="RBC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jd9z2LFJEtBI99acnNga-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jd9z2LFJEtBI99acnNga-7" target="jd9z2LFJEtBI99acnNga-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jd9z2LFJEtBI99acnNga-7" value="Granulocytes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jd9z2LFJEtBI99acnNga-9" value="Platelets" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jd9z2LFJEtBI99acnNga-11" value="Polycythemia Vera" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jd9z2LFJEtBI99acnNga-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jd9z2LFJEtBI99acnNga-12" target="jd9z2LFJEtBI99acnNga-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jd9z2LFJEtBI99acnNga-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jd9z2LFJEtBI99acnNga-12" target="jd9z2LFJEtBI99acnNga-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jd9z2LFJEtBI99acnNga-12" value="Chronic Myeloid leukemia" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jd9z2LFJEtBI99acnNga-13" value="Essential Thrombocytosis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jd9z2LFJEtBI99acnNga-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jd9z2LFJEtBI99acnNga-14" target="jd9z2LFJEtBI99acnNga-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jd9z2LFJEtBI99acnNga-14" value="Increase Nuetrophils, &lt;b&gt;basophils&lt;/b&gt; and eosinophils" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jd9z2LFJEtBI99acnNga-16" value="luekocytosis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jd9z2LFJEtBI99acnNga-18" value="granulocyte progenitor cells&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jd9z2LFJEtBI99acnNga-19" value="mild anemia and increase in platlets" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jd9z2LFJEtBI99acnNga-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jd9z2LFJEtBI99acnNga-21" target="jd9z2LFJEtBI99acnNga-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jd9z2LFJEtBI99acnNga-21" value="Phases: Chronic, accelerated phase, Blast crisis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jd9z2LFJEtBI99acnNga-23" value="Blast crisis leads to ALL or AML" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jd9z2LFJEtBI99acnNga-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jd9z2LFJEtBI99acnNga-25" target="jd9z2LFJEtBI99acnNga-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jd9z2LFJEtBI99acnNga-25" value="need to rule out infection and CML as cause of this" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jd9z2LFJEtBI99acnNga-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jd9z2LFJEtBI99acnNga-27" target="jd9z2LFJEtBI99acnNga-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jd9z2LFJEtBI99acnNga-27" value="can do this via a LAP score (infection)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="1050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jd9z2LFJEtBI99acnNga-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jd9z2LFJEtBI99acnNga-29" target="jd9z2LFJEtBI99acnNga-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jd9z2LFJEtBI99acnNga-29" value="test for Philidelphia chromsome (CML) to know" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jd9z2LFJEtBI99acnNga-30" value="leads to over activity of tyrosine kinase" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jd9z2LFJEtBI99acnNga-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jd9z2LFJEtBI99acnNga-32" target="jd9z2LFJEtBI99acnNga-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jd9z2LFJEtBI99acnNga-32" value="treatment is Tyrosine Kinase Inhibtors (not curative)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="1220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jd9z2LFJEtBI99acnNga-34" value="CLL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jd9z2LFJEtBI99acnNga-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jd9z2LFJEtBI99acnNga-36" target="jd9z2LFJEtBI99acnNga-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jd9z2LFJEtBI99acnNga-36" value="disorder of naive lymphocytes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jd9z2LFJEtBI99acnNga-38" value="Not blasts" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jd9z2LFJEtBI99acnNga-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jd9z2LFJEtBI99acnNga-39" target="jd9z2LFJEtBI99acnNga-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jd9z2LFJEtBI99acnNga-39" value="CD5+ B-cells co-express CD20 and CD5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jd9z2LFJEtBI99acnNga-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jd9z2LFJEtBI99acnNga-42" target="jd9z2LFJEtBI99acnNga-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jd9z2LFJEtBI99acnNga-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jd9z2LFJEtBI99acnNga-42" target="jd9z2LFJEtBI99acnNga-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jd9z2LFJEtBI99acnNga-42" value="confused malignancy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jd9z2LFJEtBI99acnNga-44" value="SLL&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jd9z2LFJEtBI99acnNga-46" value="presents very simliar to SLL and depends on if the cells are in the blood or lymph" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="120" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="jd9z2LFJEtBI99acnNga-47" value="same malignant cells" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jd9z2LFJEtBI99acnNga-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jd9z2LFJEtBI99acnNga-48" target="jd9z2LFJEtBI99acnNga-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jd9z2LFJEtBI99acnNga-48" value="elderly usually asymptomatic" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jd9z2LFJEtBI99acnNga-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jd9z2LFJEtBI99acnNga-50" target="jd9z2LFJEtBI99acnNga-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jd9z2LFJEtBI99acnNga-50" value="perpherial blood smear: smudge cells" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="-30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jd9z2LFJEtBI99acnNga-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jd9z2LFJEtBI99acnNga-52" target="jd9z2LFJEtBI99acnNga-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jd9z2LFJEtBI99acnNga-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jd9z2LFJEtBI99acnNga-52" target="jd9z2LFJEtBI99acnNga-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jd9z2LFJEtBI99acnNga-52" value="common complications: B-cell disruption, hypogammaglobulinemia, autoantibodies" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="-170" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jd9z2LFJEtBI99acnNga-54" value="may transform into diffuse large B cell lymphoma" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="-290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jd9z2LFJEtBI99acnNga-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jd9z2LFJEtBI99acnNga-56" target="jd9z2LFJEtBI99acnNga-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jd9z2LFJEtBI99acnNga-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jd9z2LFJEtBI99acnNga-56" target="jd9z2LFJEtBI99acnNga-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jd9z2LFJEtBI99acnNga-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jd9z2LFJEtBI99acnNga-56" target="jd9z2LFJEtBI99acnNga-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jd9z2LFJEtBI99acnNga-68" value="unique finds" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jd9z2LFJEtBI99acnNga-65">
+          <mxGeometry x="0.0396" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jd9z2LFJEtBI99acnNga-56" value="hairy cell leukemia" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jd9z2LFJEtBI99acnNga-58" value="B-cell malignancy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jd9z2LFJEtBI99acnNga-60" value="peripheral smear: hairy cells" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jd9z2LFJEtBI99acnNga-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jd9z2LFJEtBI99acnNga-62" target="jd9z2LFJEtBI99acnNga-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jd9z2LFJEtBI99acnNga-62" value="CD19, 20, 22 103" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jd9z2LFJEtBI99acnNga-64" value="massive spleenomegoly: red pulp enlarder" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jd9z2LFJEtBI99acnNga-66" value="dry tap because of thrombosis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="-30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jd9z2LFJEtBI99acnNga-67" value="tartrate-resistant acid phosphates" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="-90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jd9z2LFJEtBI99acnNga-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jd9z2LFJEtBI99acnNga-69" target="jd9z2LFJEtBI99acnNga-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jd9z2LFJEtBI99acnNga-69" value="median age 52 and abdominal pain" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="-100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jd9z2LFJEtBI99acnNga-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jd9z2LFJEtBI99acnNga-71" target="jd9z2LFJEtBI99acnNga-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jd9z2LFJEtBI99acnNga-71" value="treatment: cladribine (purine analog)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
