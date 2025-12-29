@@ -25,7 +25,7 @@
         <mxCell id="_sSO1W-Ktvft5BKOZMT0-10" edge="1" parent="1" source="_sSO1W-Ktvft5BKOZMT0-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="_sSO1W-Ktvft5BKOZMT0-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_sSO1W-Ktvft5BKOZMT0-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFCC;" value="Student Receives Clipboard" vertex="1">
+        <mxCell id="_sSO1W-Ktvft5BKOZMT0-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFFF;" value="Student Receives Clipboard" vertex="1">
           <mxGeometry height="60" width="120" x="90" y="420" as="geometry" />
         </mxCell>
         <mxCell id="_sSO1W-Ktvft5BKOZMT0-12" edge="1" parent="1" source="_sSO1W-Ktvft5BKOZMT0-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_sSO1W-Ktvft5BKOZMT0-11" value="">
@@ -57,7 +57,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_sSO1W-Ktvft5BKOZMT0-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCCCC;" value="Doc sees patient" vertex="1">
+        <mxCell id="_sSO1W-Ktvft5BKOZMT0-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFFF;" value="Doc sees patient" vertex="1">
           <mxGeometry height="60" width="120" x="280" y="420" as="geometry" />
         </mxCell>
         <mxCell id="_sSO1W-Ktvft5BKOZMT0-22" edge="1" parent="1" source="_sSO1W-Ktvft5BKOZMT0-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_sSO1W-Ktvft5BKOZMT0-21" value="">
